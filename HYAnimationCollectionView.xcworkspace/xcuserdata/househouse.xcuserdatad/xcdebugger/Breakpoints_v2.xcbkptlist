@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C51E4EF4-2274-411D-8685-C1BD0F918F88"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB7A04E3-ABFD-4CF0-A3D7-761246188F67"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HYAnimationCollectionView/SearchResultCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "setupListOneForRowView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DB7A04E3-ABFD-4CF0-A3D7-761246188F67 - 14aa3f10341e7d37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HYAnimationCollectionView.SearchResultCollectionViewCell.setupListOneForRowView() -&gt; ()"
+                  moduleName = "HYAnimationCollectionView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/househouse/Desktop/IOS/Swift/GitHubItem/HYAnimationCollectionView/HYAnimationCollectionView/SearchResultCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "83">
+               </Location>
+               <Location
+                  uuid = "DB7A04E3-ABFD-4CF0-A3D7-761246188F67 - 662ee1bb7e879e19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SnapKit.ConstraintMaker) -&gt; () in HYAnimationCollectionView.SearchResultCollectionViewCell.setupListOneForRowView() -&gt; ()"
+                  moduleName = "HYAnimationCollectionView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/househouse/Desktop/IOS/Swift/GitHubItem/HYAnimationCollectionView/HYAnimationCollectionView/SearchResultCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F44EE1A-60AC-4919-A062-33CB111D3272"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HYAnimationCollectionView/SearchResultCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "269"
+            endingLineNumber = "269"
+            landmarkName = "setupListTwoForRowView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5F44EE1A-60AC-4919-A062-33CB111D3272 - 77df244f6ba33072"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HYAnimationCollectionView.SearchResultCollectionViewCell.setupListTwoForRowView() -&gt; ()"
+                  moduleName = "HYAnimationCollectionView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/househouse/Desktop/IOS/Swift/GitHubItem/HYAnimationCollectionView/HYAnimationCollectionView/SearchResultCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "269"
+                  endingLineNumber = "269"
+                  offsetFromSymbolStart = "83">
+               </Location>
+               <Location
+                  uuid = "5F44EE1A-60AC-4919-A062-33CB111D3272 - c19244029bf4cdaa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SnapKit.ConstraintMaker) -&gt; () in HYAnimationCollectionView.SearchResultCollectionViewCell.setupListTwoForRowView() -&gt; ()"
+                  moduleName = "HYAnimationCollectionView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/househouse/Desktop/IOS/Swift/GitHubItem/HYAnimationCollectionView/HYAnimationCollectionView/SearchResultCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "270"
+                  endingLineNumber = "270"
+                  offsetFromSymbolStart = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FF668C4-EB0D-48AD-BE02-BC41A0750D62"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HYAnimationCollectionView/SearchResultCollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A38D493F-F722-4785-94C4-56638D3E4A08"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HYAnimationCollectionView/SearchResultCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "listTwoForRow"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F42BBA1D-6D7A-4542-92AB-5A31E6159BBC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HYAnimationCollectionView/SearchResultCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "listTwoForRow"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7E6295D-98C8-4CE8-AD79-70F021C7A258"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HYAnimationCollectionView/SearchResultCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "listTwoForRow"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76A76D04-EEB7-4A1D-9D41-6FB2A78E198F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HYAnimationCollectionView/SearchResultCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "listTwoForRow"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

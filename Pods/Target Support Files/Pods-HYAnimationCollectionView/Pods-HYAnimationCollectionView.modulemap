@@ -1,0 +1,6 @@
+framework module Pods_HYAnimationCollectionView {
+  umbrella header "Pods-HYAnimationCollectionView-umbrella.h"
+
+  export *
+  module * { export * }
+}
